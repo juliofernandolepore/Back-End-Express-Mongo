@@ -29,4 +29,8 @@ la cual es una herramienta similar a postman para testear api.
 
 ---
 
+para ejecutar nuestro archivo el siguiente comando: node api.js (por ejemplo).
+
+---
+
 agradecimientos a Axel Roel, quien dicta cursos de varios lenguajes de programacion.
